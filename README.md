@@ -1,2 +1,2 @@
-# do_javascript
+# do-javascript
 Estudio Do Javascript 
